@@ -1,6 +1,6 @@
 👋 Hey there! I'm Haziq Razak, a self-taught blockchain developer with a strong passion for technology and a focus on web3 development.
 
-💻 I have dedicated myself to exploring the fascinating world of blockchain and decentralized systems. My journey began with self-study, and I have since honed my skills through hands-on projects and continuous learning. I enjoy diving deep into the intricacies of blockchain technologies and the potential they hold for transforming industries.
+💻 My journey began with self-study, and I have since honed my skills through hands-on projects and continuous learning. I enjoy diving deep into the intricacies of blockchain technologies and the potential they hold for transforming industries.
 
 🔨 As a web3 enthusiast, I specialize in developing decentralized applications (dApps) and smart contracts. I have experience working with various blockchain platforms such as Ethereum and Solana. I'm well-versed in Solidity for smart contract development and have explored frameworks like Truffle and Hardhat for building robust and secure decentralized applications.
 
